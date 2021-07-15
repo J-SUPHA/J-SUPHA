@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @J-SUPHA
 - 👀 I’m interested in contributing to open source software
 - 🌱 I’m currently learning JavaScript while also improving my Java and Python skills
-- 💞️ I’m looking to collaborate on all projects at the beginner level
+- 💞️ I’m looking to collaborate on all projects specifically those geared towards back-end development
 - 📫 How to reach me - contact me through GitHub or my Email : jaisehgal11299@gmail.com
 
 <!---
