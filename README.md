@@ -1,7 +1,11 @@
+<p style= "
+           align: center;
+           font: 50px;
+           ">
+Hey there. My name is Jai Suphavadeeprasit!
+</p>
 
-# Hey there. My name is Jai Suphavadeeprasit!
-
-<p align="center">
+<p align="center" >
 I am a FullStack Engineer experienced in Golang, Java, Python, JavaScript and C.
 I have experience dealing with Database management as well as REST and GraphQL. 
 </p>
@@ -33,13 +37,10 @@ Once I grasped how much could be done with the tools availible I became hooked l
 <br></br>
 <br></br>
 
-
-
-
-
-
+## About me 
 <p align="center">
-Below is are the titles of my two favorite movies. MoneyBall and Imitation Game.
+I love sports with some of favorites being Muay Thai and Basketball and
+below are my two favorite movies. MoneyBall and Imitation Game.
 </p>
 
 <div id="header" align="center">
