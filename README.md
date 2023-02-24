@@ -23,15 +23,13 @@ people will make will be through the medium of Tech. I aim to play
 some part in that.
 </p>
 
-### You will find some of the projects that I have done. I have other experience and I'm always looking to learn.
+### You will find some of my projects here. I have other experience and I'm always looking to learn.
 
 <p align="center" >
 I started of wanting to do purely Finance but had a change of heart about 2-3 years ago.
 Once I grasped how much could be done with the tools availible I became hooked learning about it . 
 </p>
 
-
-<br></br>
 <br></br>
 
 ## About me 
