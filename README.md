@@ -18,9 +18,9 @@ Once I grasped how much could be done with the tools availible I became hooked l
 Below is are the titles of my two favorite movies. MoneyBall and Imitation Game.
 <div id="header" align="left">
   <img src="https://theacademyroad.com/wp-content/uploads/2015/01/The-Intimidation-Game-2-638x900.jpg"
-       width="200"
+       width="300"
        height="400"  />
   <img src="https://miro.medium.com/max/880/1*RmFOEGRNw5oq6U5Ahy9bRw.jpeg"
-       width="200"
-       height="200"  />
+       width="300"
+       height="300"  />
 </div>
