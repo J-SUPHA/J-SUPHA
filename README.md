@@ -1,5 +1,5 @@
 
-# Hey There :wave:  nbsp  My name is Jai Suphavadeeprasit!
+# Hey There :wave:   My name is Jai Suphavadeeprasit!
 
 
 <p align="center" >
