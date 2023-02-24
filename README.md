@@ -4,7 +4,7 @@
 
 <p align="center" >
 I am a FullStack Engineer experienced in Golang, Java, Python, JavaScript and C.
-I have experience dealing with Database management as well as REST and GraphQL. 
+I also have experience in Database management as well as REST and GraphQL. 
 </p>
 
 
