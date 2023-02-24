@@ -1,9 +1,6 @@
-<p style= "
-           align: center;
-           font: 50px;
-           ">
-Hey there. My name is Jai Suphavadeeprasit!
-</p>
+
+# Hey There :wave:  nbsp  My name is Jai Suphavadeeprasit!
+
 
 <p align="center" >
 I am a FullStack Engineer experienced in Golang, Java, Python, JavaScript and C.
