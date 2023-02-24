@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @J-SUPHA
-- 👀 I’m interested in contributing to open source software
-- 🌱 I’m currently learning JavaScript while also improving my Java and Python skills
-- 💞️ I’m looking to collaborate on all projects specifically those geared towards back-end development
-- 📫 How to reach me - contact me through GitHub or my Email : jaisehgal11299@gmail.com
+<div id="header" align="center">
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.theguardian.com%2Fenvironment%2F2021%2Ffeb%2F09%2Fclimate-crisis-pushing-great-white-sharks-into-new-waters&psig=AOvVaw159sEXElcnXPQB717rSA67&ust=1677343152446000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCOD2nK3Mrv0CFQAAAAAdAAAAABAN">
+</div>
+
+
+
+
 
 <!---
 J-SUPHA/J-SUPHA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
