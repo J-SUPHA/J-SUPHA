@@ -16,6 +16,10 @@ I started of wanting to do purely Finance but had a change of heart about 2-3 ye
 Once I grasped how much could be done with the tools availible I became hooked learning about it . 
 
 Below is are the titles of my two favorite movies. MoneyBall and Imitation Game.
-<div>
+<div id="header" align="left">
   <img src="https://theacademyroad.com/wp-content/uploads/2015/01/The-Intimidation-Game-2-638x900.jpg">
 </div>
+
+<div id="header" align="right">
+  <img src="https://miro.medium.com/max/880/1*RmFOEGRNw5oq6U5Ahy9bRw.jpeg">
+ </div>
