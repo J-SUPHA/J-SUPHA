@@ -3,7 +3,7 @@
 
 
 <p align="center" >
-I am a FullStack Engineer experienced in Golang, Java, Python, JavaScript and C.
+I am a FullStack Engineer experienced in RUST, Typescript, Java and Python.
 I also have experience in Database management as well as REST and GraphQL. 
 </p>
 
@@ -14,7 +14,7 @@ I also have experience in Database management as well as REST and GraphQL.
 
 <p align="center">
 I am interested in the power of logic. 
-I beleive that logic ,and as an extension technology,
+I believe that logic ,and as an extension technology,
 is necessary to keeping people and entities relevant. 
 I could say that technology has and can change the world but
 come on. Hasn't it already. Not so say there is nothing to more
